@@ -2,9 +2,11 @@
   
 1.Faliz\ \ \ ruby
 
-1.
+Num|Nome|Valor
+---|---|---
+7|Jovem|$3,60
 
-3
+
 
 4
 
